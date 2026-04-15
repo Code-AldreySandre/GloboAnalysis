@@ -1,0 +1,7 @@
+2026-04-14 22:23:46 - ExtratorPDFGloboAnalisys - INFO - Iniciando leitura do PDF: data/raw/ATIVIDADE 1 - VARIAVEIS QUANTITATIVAS ALUNOS.pdf
+2026-04-14 22:23:47 - ExtratorPDFGloboAnalisys - INFO - Tabela encontrada. Total de linhas detectadas inicialmente: 60
+2026-04-14 22:23:47 - ExtratorPDFGloboAnalisys - INFO - Extração concluída com sucesso. Total de 57 registros coletados.
+2026-04-14 22:23:47 - ProcessadorGloboAnalisys - INFO - Iniciando pipeline de transformação para 57 registros.
+2026-04-14 22:23:47 - ProcessadorGloboAnalisys - INFO - Processamento finalizado. Sucesso: 57 | Falhas: 0
+2026-04-14 22:23:47 - ProcessadorGloboAnalisys - INFO - Total de valores nulos/NA gerados: 34
+2026-04-14 22:23:47 - ProcessadorGloboAnalisys - INFO - Arquivo CSV exportado com sucesso para: data/processed/dados_funcionarios_processados.csv
